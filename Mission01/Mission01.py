@@ -1,0 +1,5 @@
+print("Hello")
+print("This is an attempt to go consistent and embrace discipline in life ")
+print(40+2)
+age=int(input("Enter your age"))
+print(age+1)
