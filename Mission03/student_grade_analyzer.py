@@ -1,9 +1,12 @@
 
+#header
 
 line="==============================="
 print(line)
 print("    Student Grade Analyzer   ")
 print(line)
+
+#body
 no_of_subjects=int(input("How many subjects ? :"))
 print()
 
@@ -38,6 +41,8 @@ print(f"Highest marks: {max} ")
 print(f"Lowest marks: {min} ")
 print(line)
 print()
+
+#footer
 print("Thank you for using CrimsonCranberry!")
 print("Have a great day! 😊")
 print(line)
